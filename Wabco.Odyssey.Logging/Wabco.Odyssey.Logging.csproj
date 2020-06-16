@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Katyayani Bathula</Authors>
+    <Company>Cybage</Company>
+    <Description>Serilog library to log application events</Description>
+    <RepositoryUrl>https://github.com/katyayanidotnet/LoggingLibrary</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

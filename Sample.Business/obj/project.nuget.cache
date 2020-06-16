@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BvVUf+s5ScgE0eVyayNyHgsihdtzMASiE/d0OZ1vDy9guOWIvY+r4TKBW1NDz6tLp43UBb0ukAC5XVOmJuqCVw==",
+  "dgSpecHash": "1oL4U/Y2k51kv89ViU3VscHp7ysuKHy+SYwqw15RvNq3zt8xUXtw6Qr62XoB7cEQdm++TxbCk8kpdAL65q7+/w==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Sample.Business\\Sample.Business.csproj",
+  "projectFilePath": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Sample.Business\\Sample.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ronit\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
-    "C:\\Users\\ronit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\katyayanib\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512"
   ],
   "logs": []
 }

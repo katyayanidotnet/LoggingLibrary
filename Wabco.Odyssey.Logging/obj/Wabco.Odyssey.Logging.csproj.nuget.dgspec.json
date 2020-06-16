@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj": {}
+    "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj": {
+    "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj",
+        "projectUniqueName": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj",
         "projectName": "Wabco.Odyssey.Logging",
-        "projectPath": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj",
-        "packagesPath": "C:\\Users\\ronit\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\obj\\",
+        "projectPath": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj",
+        "packagesPath": "C:\\Users\\katyayanib\\.nuget\\packages\\",
+        "outputPath": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ronit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\katyayanib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,12 +88,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

@@ -8363,19 +8363,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ronit\\.nuget\\packages\\": {}
+    "C:\\Users\\katyayanib\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Sample.Api1.Client\\Sample.Api1.Client.csproj",
+      "projectUniqueName": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Sample.Api1.Client\\Sample.Api1.Client.csproj",
       "projectName": "Sample.Api1.Client",
-      "projectPath": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Sample.Api1.Client\\Sample.Api1.Client.csproj",
-      "packagesPath": "C:\\Users\\ronit\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Sample.Api1.Client\\obj\\",
+      "projectPath": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Sample.Api1.Client\\Sample.Api1.Client.csproj",
+      "packagesPath": "C:\\Users\\katyayanib\\.nuget\\packages\\",
+      "outputPath": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Sample.Api1.Client\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ronit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\katyayanib\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8388,14 +8392,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Sample.Business\\Sample.Business.csproj": {
-              "projectPath": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Sample.Business\\Sample.Business.csproj"
+            "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Sample.Business\\Sample.Business.csproj": {
+              "projectPath": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Sample.Business\\Sample.Business.csproj"
             },
-            "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Sample.Domain\\Sample.Domain.csproj": {
-              "projectPath": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Sample.Domain\\Sample.Domain.csproj"
+            "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Sample.Domain\\Sample.Domain.csproj": {
+              "projectPath": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Sample.Domain\\Sample.Domain.csproj"
             },
-            "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj": {
-              "projectPath": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj"
+            "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj": {
+              "projectPath": "D:\\TX-Inspection App\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging\\Wabco.Odyssey.Logging.csproj"
             }
           }
         }
@@ -8418,12 +8422,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

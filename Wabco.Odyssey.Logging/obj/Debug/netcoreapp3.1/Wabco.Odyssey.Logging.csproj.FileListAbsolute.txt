@@ -7,3 +7,12 @@ D:\Dev\Wabco\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1
 D:\Dev\Wabco\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.dll
 D:\Dev\Wabco\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.pdb
 D:\Dev\Wabco\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.csproj.CoreCompileInputs.cache
+D:\TX-Inspection App\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\bin\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.deps.json
+D:\TX-Inspection App\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\bin\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.dll
+D:\TX-Inspection App\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\bin\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.pdb
+D:\TX-Inspection App\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.csprojAssemblyReference.cache
+D:\TX-Inspection App\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.AssemblyInfoInputs.cache
+D:\TX-Inspection App\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.AssemblyInfo.cs
+D:\TX-Inspection App\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.csproj.CoreCompileInputs.cache
+D:\TX-Inspection App\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.dll
+D:\TX-Inspection App\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging\obj\Debug\netcoreapp3.1\Wabco.Odyssey.Logging.pdb

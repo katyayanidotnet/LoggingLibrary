@@ -1,0 +1,12 @@
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Business.deps.json
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Business.dll
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Domain.dll
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Domain.pdb
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.csprojAssemblyReference.cache
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.AssemblyInfoInputs.cache
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.AssemblyInfo.cs
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.csproj.CopyComplete
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Business.pdb
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.csproj.CoreCompileInputs.cache
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.dll
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjvpWqfmQGm4yvbhKkYQqAnG+jF26X96PgBw0OAIzA5FDU2yvQN24CgwiSSpN+DGSUKjyH4FCn+VuzQGm0DGZw==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Wabco\\Wabco.Odyssey.Logging\\Sample.Domain\\Sample.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

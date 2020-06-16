@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sample.Business\Sample.Business.csproj" />
+    <ProjectReference Include="..\Sample.Domain\Sample.Domain.csproj" />
+    <ProjectReference Include="..\Wabco.Odyssey.Logging\Wabco.Odyssey.Logging.csproj" />
+  </ItemGroup>
+
+
+</Project>

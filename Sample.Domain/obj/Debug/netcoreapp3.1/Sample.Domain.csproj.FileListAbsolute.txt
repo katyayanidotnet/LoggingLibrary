@@ -1,0 +1,9 @@
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Domain\bin\Debug\netcoreapp3.1\Sample.Domain.deps.json
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Domain\bin\Debug\netcoreapp3.1\Sample.Domain.dll
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Domain\bin\Debug\netcoreapp3.1\Sample.Domain.pdb
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.csprojAssemblyReference.cache
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.AssemblyInfoInputs.cache
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.AssemblyInfo.cs
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.csproj.CoreCompileInputs.cache
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.dll
+D:\Dev\Wabco\Wabco.Odyssey.Logging\Sample.Domain\obj\Debug\netcoreapp3.1\Sample.Domain.pdb
